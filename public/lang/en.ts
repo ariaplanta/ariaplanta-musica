@@ -4,7 +4,6 @@ export default {
   Posts: "Publications",
   Post: "Publication",
   Likes: "J'aime",
-  Getting started: "En savoir +",
   Views: "Vues",
   Saveds: "Enregistré",
   Comments: "Commentaires",
